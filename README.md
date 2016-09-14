@@ -22,8 +22,6 @@ When running the `build` command, assets will be concatenated / uglified / copie
 
 By default, all the CSS files from development get compiled into an `all.min.css` file, while the JS files go into `all.min.js`.
 
-Most Bootstrap CSS and JS modules are disabled by default - un-comment them to activate as needed!
-
 ### Features
 
 * Jade (Pug?) templates compiled into HTML
